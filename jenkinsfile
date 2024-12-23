@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git branch: 'master', url: 'https://github.com/varhan1/Antrian-rumah-sakit.git'
+                git branch: 'master', url: 'https://github.com/zaingibran321/tubes_laundry.git/'
             }
         }
         stage('Send Dockerfile to Ansible') {
