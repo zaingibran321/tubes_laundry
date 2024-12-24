@@ -100,8 +100,3 @@ CleanLaundry bertujuan untuk memberikan layanan pencucian pakaian yang berkualit
 
 Aplikasi ini juga menerapkan queue database untuk menghapus foto profil ketika diganti, kalian bisa mengganti environment variable `QUEUE_CONNECTION` menjadi database.
 
-## Dikembangkan Oleh
-
--   Awaludin Untung Arwanda (220103117)
--   Raditya Putra Herdianto (220103134)
--   Satria Andara Putra (220103137)
